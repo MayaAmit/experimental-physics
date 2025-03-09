@@ -1,2 +1,2 @@
 # experimental-physics
-Lab Reports 
+This repository serves as a hub for my Capstone projects in PHYS 5318: Principles of Experimental Physics. Rather than one semester long project, this course is structured to involve biweekly collaborations with different physics professors at Northeastern. Each experiment is designed to align with a professor’s area of research, spanning disciplines such as biophysics, engineering, and astrophysics. After completing each experiment, I produce a detailed lab report, all of which are available here.
